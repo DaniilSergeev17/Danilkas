@@ -2,7 +2,7 @@
 # coding: utf-8
 
 from sklearn.svm import LinearSVC
-import pandas as pd
+import pandas as pd 
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
